@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PLACEHOLDER TEXTURE: Замените этот вектор или добавьте свой PNG файл с таким же именем -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <!-- Внешняя окружность -->
+    <path
+        android:fillColor="#E612121A"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M32,3 A29,29 0 1 0 32,61 A29,29 0 1 0 32,3 Z" />
+
+    <!-- Внутренняя ретро-тень -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#554AE290"
+        android:strokeWidth="1.5"
+        android:pathData="M32,8 A24,24 0 1 0 32,56 A24,24 0 1 0 32,8 Z" />
+</vector>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PLACEHOLDER TEXTURE: Замените этот вектор или добавьте свой PNG файл с таким же именем -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="140dp"
+    android:height="140dp"
+    android:viewportWidth="140"
+    android:viewportHeight="140">
+
+    <!-- Фоновая форма крестовины -->
+    <path
+        android:fillColor="#DD161622"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M46,0 L94,0 L94,46 L140,46 L140,94 L94,94 L94,140 L46,140 L46,94 L0,94 L0,46 L46,46 Z" />
+
+    <!-- Внутренние пиксельные насечки -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M52,6 L88,6 L88,14 L52,14 Z" />
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M52,126 L88,126 L88,134 L52,134 Z" />
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M6,52 L14,52 L14,88 L6,88 Z" />
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M126,52 L134,52 L134,88 L126,88 Z" />
+
+    <!-- Стрелка ВВЕРХ -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M70,18 L84,36 L56,36 Z" />
+
+    <!-- Стрелка ВНИЗ -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M70,122 L84,104 L56,104 Z" />
+
+    <!-- Стрелка ВЛЕВО -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M18,70 L36,56 L36,84 Z" />
+
+    <!-- Стрелка ВПРАВО -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M122,70 L104,56 L104,84 Z" />
+
+    <!-- Центральный пивот -->
+    <path
+        android:fillColor="#FF282836"
+        android:strokeColor="#44FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M58,58 L82,58 L82,82 L58,82 Z" />
+</vector>

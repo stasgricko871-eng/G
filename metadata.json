@@ -1,0 +1,6 @@
+{
+  "name": "RetroPad",
+  "description": "Customizable retro RPG on-screen overlay game controller with pixel art aesthetic for Android games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

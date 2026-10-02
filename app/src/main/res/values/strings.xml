@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetroPad</string>
+    <string name="accessibility_service_name">RetroPad: Перехват Volume Up</string>
+    <string name="accessibility_service_description">Позволяет переключать видимость игрового оверлея нажатием физической кнопки Volume Up без изменения громкости мультимедиа.</string>
+</resources>

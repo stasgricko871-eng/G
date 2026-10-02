@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PLACEHOLDER TEXTURE: Замените этот вектор или добавьте свой PNG файл с таким же именем -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="54dp"
+    android:height="54dp"
+    android:viewportWidth="54"
+    android:viewportHeight="54">
+    <path
+        android:fillColor="#E612121C"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M6,6 L48,6 L48,48 L6,48 Z" />
+    <path
+        android:fillColor="#FF4AE290"
+        android:pathData="M14,27 L34,14 L34,40 Z" />
+</vector>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PLACEHOLDER TEXTURE: Замените этот вектор или добавьте свой PNG файл с таким же именем -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="60dp"
+    android:viewportWidth="60"
+    android:viewportHeight="60">
+
+    <!-- Грибок / шляпка стика джойстика -->
+    <path
+        android:fillColor="#F0242436"
+        android:strokeColor="#FF4AE290"
+        android:strokeWidth="2.5"
+        android:pathData="M30,4 A26,26 0 1 0 30,56 A26,26 0 1 0 30,4 Z" />
+
+    <!-- Внутренний круговой упор с ретро-текстурой -->
+    <path
+        android:fillColor="#FF181824"
+        android:strokeColor="#AAFFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M30,15 A15,15 0 1 0 30,45 A15,15 0 1 0 30,15 Z" />
+
+    <!-- Центральная насечка -->
+    <path
+        android:fillColor="#FF4AE290"
+        android:pathData="M27,27 L33,27 L33,33 L27,33 Z" />
+</vector>
